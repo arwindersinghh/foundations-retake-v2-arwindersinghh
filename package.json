@@ -1,0 +1,22 @@
+{
+  "name": "foundations-retake",
+  "version": "1.0.0",
+  "description": "### Getting Started:",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullstackAcademy/foundations-retake-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullstackAcademy/foundations-retake-v2/issues"
+  },
+  "homepage": "https://github.com/FullstackAcademy/foundations-retake-v2#readme",
+  "devDependencies": {
+    "testem": "^2.14.0"
+  }
+}
