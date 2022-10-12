@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/FullstackAcademy/foundations-retake-v2#readme",
   "devDependencies": {
-    "testem": "^2.14.0"
+    "testem": "^3.9.0"
   }
 }
